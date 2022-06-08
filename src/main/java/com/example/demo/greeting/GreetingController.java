@@ -1,6 +1,6 @@
 // initial code copied from https://spring.io/guides/gs/rest-service/ Jun 2022
 
-package com.example.demo;
+package com.example.demo.greeting;
 
 import java.util.concurrent.atomic.AtomicLong;
 
